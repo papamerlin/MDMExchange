@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TCRMService xmlns="http://www.ibm.com/mdm/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ibm.com/mdm/schema MDMDomains.xsd">
+	<ResponseControl>
+		<ResultCode>SUCCESS</ResultCode>
+		<ServiceTime>96</ServiceTime>
+		<DWLControl>
+			<requesterName>Banktest\c22798</requesterName>
+			<requesterLanguage>1600</requesterLanguage>
+			<requesterLocale>el</requesterLocale>
+			<requestID>222</requestID>
+		</DWLControl>
+	</ResponseControl>
+	<TxResponse>
+		<RequestType>getParty</RequestType>
+		<TxResult>
+			<ResultCode>SUCCESS</ResultCode>
+		</TxResult>
+		<ResponseObject>
+			<TCRMPersonBObj>
+				<PartyId>9203000000002105242</PartyId>
+				<DisplayName>Eltaso</DisplayName>
+				<PreferredLanguageType>1600</PreferredLanguageType>
+				<PreferredLanguageValue>GR</PreferredLanguageValue>
+				<PartyType>P</PartyType>
+				<CreatedDate>2004-08-30 00:00:00.0</CreatedDate>
+				<SolicitationIndicator>N</SolicitationIndicator>
+				<ConfidentialIndicator>N</ConfidentialIndicator>
+				<LastVerifiedDate>2024-01-12 13:26:22.342</LastVerifiedDate>
+				<PartyLastUpdateDate>2024-01-12 13:26:22.448</PartyLastUpdateDate>
+				<PartyLastUpdateUser>banktest\x93176</PartyLastUpdateUser>
+				<PartyLastUpdateTxId>828270505878230098</PartyLastUpdateTxId>
+				<AccessTokenValue>00000000000000000000</AccessTokenValue>
+				<PersonPartyId>9203000000002105242</PersonPartyId>
+				<BirthDate>1986-10-11 00:00:00.0</BirthDate>
+				<BirthPlaceType>300086</BirthPlaceType>
+				<BirthPlaceValue>GR</BirthPlaceValue>
+				<GenderType>1</GenderType>
+				<UserIndicator>N</UserIndicator>
+				<AgeVerifiedWithType>100001</AgeVerifiedWithType>
+				<AgeVerifiedWithValue>01</AgeVerifiedWithValue>
+				<CitizenshipType>300086</CitizenshipType>
+				<CitizenshipValue>GR</CitizenshipValue>
+				<NumberOfChildren>0</NumberOfChildren>
+				<PartyActiveIndicator>Y</PartyActiveIndicator>
+				<PersonLastUpdateDate>2024-01-12 13:26:22.449</PersonLastUpdateDate>
+				<PersonLastUpdateUser>banktest\x93176</PersonLastUpdateUser>
+				<PersonLastUpdateTxId>828270505878230098</PersonLastUpdateTxId>
+								<TCRMExtension>
+					<ExtendedObject>XPersonBObjExt</ExtendedObject>
+					<XPersonBObjExt>
+						<XPersonId>9203000000002105242</XPersonId>
+						<ABBirthCity>ΑΘΗΝΑ</ABBirthCity>
+						<ABMunicipality>101236</ABMunicipality>
+						<ABResidenceCountryType>300086</ABResidenceCountryType>
+						<ABResidenceCountryValue>GR</ABResidenceCountryValue>
+						<ABOccupationType>100059</ABOccupationType>
+						<ABOccupationValue>2.21.213.2131</ABOccupationValue>
+						<XPersonCategoryType>100001</XPersonCategoryType>
+						<OccupationVerDocReceive>R</OccupationVerDocReceive>
+						<OccupationVerDocType>100007</OccupationVerDocType>
+						<OccupationVerDocDt>2020-03-11 08:23:18.525</OccupationVerDocDt>
+						<OccupationVerDocBranch>346</OccupationVerDocBranch>
+						<OccupationVerDocTeller>21343</OccupationVerDocTeller>
+						<OccupationVerDocId>{96634DAC-0119-4AEB-9F8F-7580785C62BC}</OccupationVerDocId>
+						<GreekStateRelationshipStatus>300002</GreekStateRelationshipStatus>
+						<GreekStateRelationshipType>00000000000000000000</GreekStateRelationshipType>
+						<GreekStateRelationshipLastUpdateBranch>346</GreekStateRelationshipLastUpdateBranch>
+						<GreekStateRelationshipLastUpdateDt>2020-03-11 09:38:43.89</GreekStateRelationshipLastUpdateDt>
+						<ABPersonUpdateType>100001</ABPersonUpdateType>
+						<ABPersonUpdateValue>01</ABPersonUpdateValue>
+						<ABConsentUpdateStatus>100001</ABConsentUpdateStatus>
+						<ABConsentUpdateDate>2018-07-20 00:00:00.0</ABConsentUpdateDate>
+						<ABConsentUpdateChannelType>100008</ABConsentUpdateChannelType>
+						<ABConsentUpdateChannelValue>08</ABConsentUpdateChannelValue>
+						<ABESignatureAcceptanceType>100001</ABESignatureAcceptanceType>
+						<ABESignatureAcceptanceValue>01</ABESignatureAcceptanceValue>
+						<ABESignatureAcceptanceDate>2020-03-11</ABESignatureAcceptanceDate>
+						<SecondCitizenshipIndicatorType>100002</SecondCitizenshipIndicatorType>
+						<SecondCitizenshipIndicatorValue>02</SecondCitizenshipIndicatorValue>
+						<XPersonLastUpdateTxId>828270505878230098</XPersonLastUpdateTxId>
+						<XPersonLastUpdateUser>banktest\x93176</XPersonLastUpdateUser>
+						<XPersonLastUpdateDate>2024-01-12 13:26:22.449</XPersonLastUpdateDate>
+						<FlaggingBObj>
+							<ComponentID>1003196</ComponentID>
+							<FlaggingPK>9215650000003654509</FlaggingPK>
+							<PartyId>9203000000002105242</PartyId>
+							<FlaggingType>300002</FlaggingType>
+							<RealizationBranch>300019</RealizationBranch>
+							<FlaggingStaticUpdateDate>2013-06-27 21:55:25.637</FlaggingStaticUpdateDate>
+							<FlaggingStaticUpdateTeller>BANK\C00001</FlaggingStaticUpdateTeller>
+							<FlaggingLastUpdateBranch>099</FlaggingLastUpdateBranch>
+							<FlaggingLastUpdateTxId>9215650000003654509</FlaggingLastUpdateTxId>
+							<FlaggingLastUpdateUser>BANK\C00001</FlaggingLastUpdateUser>
+							<FlaggingLastUpdateDate>2013-06-27 21:55:25.637</FlaggingLastUpdateDate>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</FlaggingBObj>
+						<VerificationDocumentBObj>
+							<ComponentID>1003388</ComponentID>
+							<VerificationDocumentPK>9126000000008033418</VerificationDocumentPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationDocumentSystemId>300021</VerificationDocumentSystemId>
+							<IdentificationType>100001</IdentificationType>
+							<VerificationDocumentType>100001</VerificationDocumentType>
+							<VerificationDocumentLastUpdateDate>2014-05-09 18:31:34.418</VerificationDocumentLastUpdateDate>
+							<VerificationDocumentLastUpdateTxId>0</VerificationDocumentLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationDocumentBObj>
+						<VerificationDocumentBObj>
+							<ComponentID>1003388</ComponentID>
+							<VerificationDocumentPK>9134100000007619324</VerificationDocumentPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationDocumentSystemId>300021</VerificationDocumentSystemId>
+							<IdentificationType>300001</IdentificationType>
+							<VerificationDocumentType>300001</VerificationDocumentType>
+							<VerificationDocumentLastUpdateDate>2014-07-18 18:56:22.205</VerificationDocumentLastUpdateDate>
+							<VerificationDocumentLastUpdateTxId>0</VerificationDocumentLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationDocumentBObj>
+						<VerificationDocumentBObj>
+							<ComponentID>1003388</ComponentID>
+							<VerificationDocumentPK>2426583907826018</VerificationDocumentPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationDocumentSystemId>300021</VerificationDocumentSystemId>
+							<IdentificationType>100002</IdentificationType>
+							<VerificationDocumentType>100002</VerificationDocumentType>
+							<VerificationDocumentLastUpdateDate>2020-03-11 08:23:46.017</VerificationDocumentLastUpdateDate>
+							<VerificationDocumentLastUpdateUser>Bank\C21343</VerificationDocumentLastUpdateUser>
+							<VerificationDocumentLastUpdateTxId>677858390782566113</VerificationDocumentLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationDocumentBObj>
+						<VerificationDocumentBObj>
+							<ComponentID>1003388</ComponentID>
+							<VerificationDocumentPK>2424583907826028</VerificationDocumentPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationDocumentSystemId>300021</VerificationDocumentSystemId>
+							<IdentificationType>100003</IdentificationType>
+							<VerificationDocumentType>100003</VerificationDocumentType>
+							<VerificationDocumentLastUpdateDate>2020-03-11 08:23:46.027</VerificationDocumentLastUpdateDate>
+							<VerificationDocumentLastUpdateUser>Bank\C21343</VerificationDocumentLastUpdateUser>
+							<VerificationDocumentLastUpdateTxId>677858390782566113</VerificationDocumentLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationDocumentBObj>
+						<VerificationDocumentBObj>
+							<ComponentID>1003388</ComponentID>
+							<VerificationDocumentPK>2469583907826042</VerificationDocumentPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationDocumentSystemId>300021</VerificationDocumentSystemId>
+							<IdentificationType>100004</IdentificationType>
+							<VerificationDocumentType>100004</VerificationDocumentType>
+							<VerificationDocumentLastUpdateDate>2020-03-11 08:23:46.041</VerificationDocumentLastUpdateDate>
+							<VerificationDocumentLastUpdateUser>Bank\C21343</VerificationDocumentLastUpdateUser>
+							<VerificationDocumentLastUpdateTxId>677858390782566113</VerificationDocumentLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationDocumentBObj>
+						<VerificationDocumentBObj>
+							<ComponentID>1003388</ComponentID>
+							<VerificationDocumentPK>2435583907826047</VerificationDocumentPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationDocumentSystemId>300021</VerificationDocumentSystemId>
+							<IdentificationType>100005</IdentificationType>
+							<VerificationDocumentType>100005</VerificationDocumentType>
+							<VerificationDocumentLastUpdateDate>2020-03-11 08:23:46.046</VerificationDocumentLastUpdateDate>
+							<VerificationDocumentLastUpdateUser>Bank\C21343</VerificationDocumentLastUpdateUser>
+							<VerificationDocumentLastUpdateTxId>677858390782566113</VerificationDocumentLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationDocumentBObj>
+						<VerificationDocumentBObj>
+							<ComponentID>1003388</ComponentID>
+							<VerificationDocumentPK>2493583907826057</VerificationDocumentPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationDocumentSystemId>300021</VerificationDocumentSystemId>
+							<IdentificationType>300002</IdentificationType>
+							<VerificationDocumentType>300002</VerificationDocumentType>
+							<VerificationDocumentStatus>300002</VerificationDocumentStatus>
+							<VerificationDocumentScanId>{4E77B04A-160B-4B37-8DC8-A70B72746CBB}</VerificationDocumentScanId>
+							<VerificationDocumentCharacterizationUser>c21343</VerificationDocumentCharacterizationUser>
+							<VerificationDocumentCharacterizationBranch>0346</VerificationDocumentCharacterizationBranch>
+							<VerificationDocumentCharacterizationDate>2020-03-11 08:33:05.0</VerificationDocumentCharacterizationDate>
+							<VerificationDocumentLastUpdateDate>2020-03-11 08:33:06.595</VerificationDocumentLastUpdateDate>
+							<VerificationDocumentLastUpdateBranch>0346</VerificationDocumentLastUpdateBranch>
+							<VerificationDocumentLastUpdateUser>c21343</VerificationDocumentLastUpdateUser>
+							<VerificationDocumentLastUpdateTxId>715458390838610982</VerificationDocumentLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationDocumentBObj>
+						<VerificationInformationBObj>
+							<ComponentID>1003589</ComponentID>
+							<VerificationInformationPK>2459583907826063</VerificationInformationPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationInformationType>300001</VerificationInformationType>
+							<VerificationInformationValueCode>300004</VerificationInformationValueCode>
+							<VerificationInformationLastUpdateUser>Bank\C21343</VerificationInformationLastUpdateUser>
+							<VerificationInformationLastUpdateDate>2020-03-11 08:23:46.062</VerificationInformationLastUpdateDate>
+							<VerificationInformationLastUpdateTxId>677858390782566113</VerificationInformationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationInformationBObj>
+						<VerificationInformationBObj>
+							<ComponentID>1003589</ComponentID>
+							<VerificationInformationPK>2416583907826070</VerificationInformationPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationInformationType>300002</VerificationInformationType>
+							<VerificationInformationValueCode>100002</VerificationInformationValueCode>
+							<VerificationInformationLastUpdateUser>Bank\C21343</VerificationInformationLastUpdateUser>
+							<VerificationInformationLastUpdateDate>2020-03-11 08:23:46.069</VerificationInformationLastUpdateDate>
+							<VerificationInformationLastUpdateTxId>677858390782566113</VerificationInformationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationInformationBObj>
+						<VerificationInformationBObj>
+							<ComponentID>1003589</ComponentID>
+							<VerificationInformationPK>2471583907826087</VerificationInformationPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationInformationType>300003</VerificationInformationType>
+							<VerificationInformationValueCode>300002</VerificationInformationValueCode>
+							<VerificationInformationLastUpdateUser>Bank\C21343</VerificationInformationLastUpdateUser>
+							<VerificationInformationLastUpdateDate>2020-03-11 08:23:46.086</VerificationInformationLastUpdateDate>
+							<VerificationInformationLastUpdateTxId>677858390782566113</VerificationInformationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationInformationBObj>
+						<VerificationInformationBObj>
+							<ComponentID>1003589</ComponentID>
+							<VerificationInformationPK>2441583907826092</VerificationInformationPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationInformationType>300006</VerificationInformationType>
+							<VerificationInformationValueCode>300002</VerificationInformationValueCode>
+							<VerificationInformationKey>100005</VerificationInformationKey>
+							<VerificationInformationStatusType>300001</VerificationInformationStatusType>
+							<VerificationInformationStatusValue>01</VerificationInformationStatusValue>
+							<VerificationTeller>21343</VerificationTeller>
+							<VerificationDate>2020-03-11 08:23:18.525</VerificationDate>
+							<VerificationInformationLastUpdateUser>Bank\C21343</VerificationInformationLastUpdateUser>
+							<LastUpdateBranch>346</LastUpdateBranch>
+							<VerificationInformationLastUpdateDate>2022-03-09 14:51:43.156</VerificationInformationLastUpdateDate>
+							<VerificationInformationLastUpdateTxId>677858390782566113</VerificationInformationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationInformationBObj>
+						<VerificationInformationBObj>
+							<ComponentID>1003589</ComponentID>
+							<VerificationInformationPK>9223000000002611057</VerificationInformationPK>
+							<PartyId>9203000000002105242</PartyId>
+							<VerificationInformationType>300007</VerificationInformationType>
+							<VerificationInformationValueCode>100002</VerificationInformationValueCode>
+							<VerificationInformationKey>00000000000000000000</VerificationInformationKey>
+							<VerificationInformationLastUpdateUser>BANK\C00001</VerificationInformationLastUpdateUser>
+							<VerificationInformationLastUpdateDate>2021-04-04 01:36:00.818</VerificationInformationLastUpdateDate>
+							<VerificationInformationLastUpdateTxId>9223000000002611057</VerificationInformationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</VerificationInformationBObj>
+						<ConsentBObj>
+							<ComponentID>1005420</ComponentID>
+							<ConsentId>9000000000003126860</ConsentId>
+							<ConsentOwnerId>9203000000002105242</ConsentOwnerId>
+							<ProcPurpId>0</ProcPurpId>
+							<AgreeInd>1</AgreeInd>
+							<LanguageAgreedInType>1600</LanguageAgreedInType>
+							<LanguageAgreedInValue>GR</LanguageAgreedInValue>
+							<EnforcementType>0</EnforcementType>
+							<CreateDate>2020-03-11 08:23:18.525</CreateDate>
+							<StartDate>2022-12-13 16:08:14.3</StartDate>
+							<ConsentActiveIndicator>Y</ConsentActiveIndicator>
+							<ProfileSystemType>5000001</ProfileSystemType>
+							<ConsentLastUpdateDate>2022-12-13 16:08:14.386</ConsentLastUpdateDate>
+							<ConsentLastUpdateUser>banktest\c23060</ConsentLastUpdateUser>
+							<ConsentLastUpdateTxId>312267094049405350</ConsentLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+							<ProcessingPurposeBObj>
+								<ComponentID>4480</ComponentID>
+								<ProcPurpId>0</ProcPurpId>
+								<ProcPurpType>100003</ProcPurpType>
+								<ProcPurpValue>03</ProcPurpValue>
+								<StartDate>2023-07-24 16:20:00.699</StartDate>
+								<ProcessingPurposeLastUpdateDate>2023-07-24 16:20:00.699</ProcessingPurposeLastUpdateDate>
+								<ProcessingPurposeLastUpdateUser>IBM</ProcessingPurposeLastUpdateUser>
+								<ProcessingPurposeLastUpdateTxId>0</ProcessingPurposeLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</ProcessingPurposeBObj>
+							<ConsentEntityAssociationBObj>
+								<ComponentID>4485</ComponentID>
+								<ConsentEntityAssocId>2428583907826156</ConsentEntityAssocId>
+								<ConsentId>9000000000003126860</ConsentId>
+								<IncludeExcludeFlag>1</IncludeExcludeFlag>
+								<EntityNameType>100004</EntityNameType>
+								<EntityNameValue>04</EntityNameValue>
+								<EntityNameMdmOwned>0</EntityNameMdmOwned>
+								<CreateDate>2022-12-13 16:08:14.3</CreateDate>
+								<StartDate>2022-12-13 16:08:14.3</StartDate>
+								<ConsentEntityAssociationLastUpdateDate>2022-12-13 16:08:14.32</ConsentEntityAssociationLastUpdateDate>
+								<ConsentEntityAssociationLastUpdateUser>banktest\c23060</ConsentEntityAssociationLastUpdateUser>
+								<ConsentEntityAssociationLastUpdateTxId>312267094049405350</ConsentEntityAssociationLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</ConsentEntityAssociationBObj>
+							<ConsentEntityAssociationBObj>
+								<ComponentID>4485</ComponentID>
+								<ConsentEntityAssocId>2423583907826163</ConsentEntityAssocId>
+								<ConsentId>9000000000003126860</ConsentId>
+								<IncludeExcludeFlag>1</IncludeExcludeFlag>
+								<EntityNameType>100003</EntityNameType>
+								<EntityNameValue>03</EntityNameValue>
+								<EntityNameMdmOwned>0</EntityNameMdmOwned>
+								<CreateDate>2022-12-13 16:08:14.3</CreateDate>
+								<StartDate>2022-12-13 16:08:14.3</StartDate>
+								<ConsentEntityAssociationLastUpdateDate>2022-12-13 16:08:14.322</ConsentEntityAssociationLastUpdateDate>
+								<ConsentEntityAssociationLastUpdateUser>banktest\c23060</ConsentEntityAssociationLastUpdateUser>
+								<ConsentEntityAssociationLastUpdateTxId>312267094049405350</ConsentEntityAssociationLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</ConsentEntityAssociationBObj>
+							<ConsentEntityAssociationBObj>
+								<ComponentID>4485</ComponentID>
+								<ConsentEntityAssocId>2431583907826171</ConsentEntityAssocId>
+								<ConsentId>9000000000003126860</ConsentId>
+								<IncludeExcludeFlag>0</IncludeExcludeFlag>
+								<EntityNameType>100002</EntityNameType>
+								<EntityNameValue>02</EntityNameValue>
+								<EntityNameMdmOwned>0</EntityNameMdmOwned>
+								<CreateDate>2022-12-13 16:08:14.3</CreateDate>
+								<StartDate>2022-12-13 16:08:14.3</StartDate>
+								<ConsentEntityAssociationLastUpdateDate>2022-12-13 16:08:14.329</ConsentEntityAssociationLastUpdateDate>
+								<ConsentEntityAssociationLastUpdateUser>banktest\c23060</ConsentEntityAssociationLastUpdateUser>
+								<ConsentEntityAssociationLastUpdateTxId>312267094049405350</ConsentEntityAssociationLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</ConsentEntityAssociationBObj>
+							<ConsentEntityAssociationBObj>
+								<ComponentID>4485</ComponentID>
+								<ConsentEntityAssocId>2444583907826181</ConsentEntityAssocId>
+								<ConsentId>9000000000003126860</ConsentId>
+								<IncludeExcludeFlag>0</IncludeExcludeFlag>
+								<EntityNameType>100001</EntityNameType>
+								<EntityNameValue>01</EntityNameValue>
+								<EntityNameMdmOwned>0</EntityNameMdmOwned>
+								<CreateDate>2022-12-13 16:08:14.3</CreateDate>
+								<StartDate>2022-12-13 16:08:14.3</StartDate>
+								<ConsentEntityAssociationLastUpdateDate>2022-12-13 16:08:14.331</ConsentEntityAssociationLastUpdateDate>
+								<ConsentEntityAssociationLastUpdateUser>banktest\c23060</ConsentEntityAssociationLastUpdateUser>
+								<ConsentEntityAssociationLastUpdateTxId>312267094049405350</ConsentEntityAssociationLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</ConsentEntityAssociationBObj>
+														<TCRMExtension>
+								<ExtendedObject>XConsentBObjExt</ExtendedObject>
+								<XConsentBObjExt>
+									<ABConsentStatusType>100001</ABConsentStatusType>
+									<ABConsentStatusValue>01</ABConsentStatusValue>
+									<ABConsentRetrievalType>100001</ABConsentRetrievalType>
+									<ABConsentRetrievalValue>01</ABConsentRetrievalValue>
+									<ABConsentChannelType>100001</ABConsentChannelType>
+									<ABConsentChannelValue>01</ABConsentChannelValue>
+								</XConsentBObjExt>
+							</TCRMExtension>
+
+						</ConsentBObj>
+						<LegalEntityBObj>
+							<ComponentID>1050069</ComponentID>
+							<LegalEntitypkId>2465583907826185</LegalEntitypkId>
+							<PartyId>9203000000002105242</PartyId>
+							<LegalEntityType>100001</LegalEntityType>
+							<LegalEntityValue>01</LegalEntityValue>
+							<AssigneeExpirationIndicatorType>300002</AssigneeExpirationIndicatorType>
+							<AssigneeExpirationIndicatorValue>02</AssigneeExpirationIndicatorValue>
+							<LegalEntityLastUpdateDate>2020-03-11 08:23:46.184</LegalEntityLastUpdateDate>
+							<LegalEntityLastUpdateUser>Bank\C21343</LegalEntityLastUpdateUser>
+							<LegalEntityLastUpdateTxId>677858390782566113</LegalEntityLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</LegalEntityBObj>
+						<LegalEntityBObj>
+							<ComponentID>1050069</ComponentID>
+							<LegalEntitypkId>2411583907826192</LegalEntitypkId>
+							<PartyId>9203000000002105242</PartyId>
+							<LegalEntityType>100002</LegalEntityType>
+							<LegalEntityValue>02</LegalEntityValue>
+							<AssigneeExpirationIndicatorType>300002</AssigneeExpirationIndicatorType>
+							<AssigneeExpirationIndicatorValue>02</AssigneeExpirationIndicatorValue>
+							<LegalEntityLastUpdateDate>2020-03-11 08:23:46.191</LegalEntityLastUpdateDate>
+							<LegalEntityLastUpdateUser>Bank\C21343</LegalEntityLastUpdateUser>
+							<LegalEntityLastUpdateTxId>677858390782566113</LegalEntityLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</LegalEntityBObj>
+						<LegalEntityBObj>
+							<ComponentID>1050069</ComponentID>
+							<LegalEntitypkId>2420583907826196</LegalEntitypkId>
+							<PartyId>9203000000002105242</PartyId>
+							<LegalEntityType>100003</LegalEntityType>
+							<LegalEntityValue>03</LegalEntityValue>
+							<AssigneeExpirationIndicatorType>300002</AssigneeExpirationIndicatorType>
+							<AssigneeExpirationIndicatorValue>02</AssigneeExpirationIndicatorValue>
+							<LegalEntityLastUpdateDate>2020-03-11 08:23:46.195</LegalEntityLastUpdateDate>
+							<LegalEntityLastUpdateUser>Bank\C21343</LegalEntityLastUpdateUser>
+							<LegalEntityLastUpdateTxId>677858390782566113</LegalEntityLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</LegalEntityBObj>
+						<NotificationBObj>
+							<ComponentID>1050691</ComponentID>
+							<NotificationId>1246646836340628</NotificationId>
+							<PartyId>9203000000002105242</PartyId>
+							<NotificationType>300004</NotificationType>
+							<NotificationValue>04</NotificationValue>
+							<NotificationStatus>300001</NotificationStatus>
+							<NotificationLastUpdateDate>2022-03-09 16:32:20.627</NotificationLastUpdateDate>
+							<NotificationLastUpdateUser>banktest\c23060</NotificationLastUpdateUser>
+							<NotificationLastUpdateTxId>535464683634022088</NotificationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</NotificationBObj>
+					</XPersonBObjExt>
+				</TCRMExtension>
+
+				<TCRMPartyAddressBObj>
+					<PartyAddressIdPK>9203000000001728318</PartyAddressIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<AddressId>1221504167674710</AddressId>
+					<AddressUsageType>100001</AddressUsageType>
+					<AddressUsageValue>01</AddressUsageValue>
+					<StartDate>2013-01-23 08:29:42.993</StartDate>
+					<AddressGroupLastUpdateDate>2020-03-11 08:33:06.834</AddressGroupLastUpdateDate>
+					<AddressGroupLastUpdateUser>c21343</AddressGroupLastUpdateUser>
+					<AddressGroupLastUpdateTxId>715458390838610982</AddressGroupLastUpdateTxId>
+					<LocationGroupLastUpdateDate>2020-03-11 08:33:06.83</LocationGroupLastUpdateDate>
+					<LocationGroupLastUpdateUser>c21343</LocationGroupLastUpdateUser>
+					<LocationGroupLastUpdateTxId>715458390838610982</LocationGroupLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XAddressGroupBObjExt</ExtendedObject>
+						<XAddressGroupBObjExt>
+							<XLocationGroupIdPK>9203000000001728318</XLocationGroupIdPK>
+							<ABAddressValidationDocumentIndicator>R</ABAddressValidationDocumentIndicator>
+							<ABAddressValidationDocumentType>100004</ABAddressValidationDocumentType>
+							<ABAddressValidationDocumentValue>01.02</ABAddressValidationDocumentValue>
+							<ABAddressValidationDocumentId>{EFAEF7A8-7132-41E1-87F7-269DE2F7D97E}</ABAddressValidationDocumentId>
+							<AddressGroupId>0</AddressGroupId>
+							<XAddressGroupLastUpdateDate>2020-03-11 08:33:06.834</XAddressGroupLastUpdateDate>
+							<XAddressGroupLastUpdateUser>c21343</XAddressGroupLastUpdateUser>
+							<XAddressGroupLastUpdateTxId>715458390838610982</XAddressGroupLastUpdateTxId>
+							<ABAddressValidationDocumentLastUpdateDt>2020-03-11 08:20:44.773</ABAddressValidationDocumentLastUpdateDt>
+							<ABAddressValidationDocumentLastUpdateTeller>21343</ABAddressValidationDocumentLastUpdateTeller>
+							<ABAddressValidationDocumentLastUpdateBranch>346</ABAddressValidationDocumentLastUpdateBranch>
+						</XAddressGroupBObjExt>
+					</TCRMExtension>
+
+					<TCRMAddressBObj>
+						<AddressIdPK>1221504167674710</AddressIdPK>
+						<ResidenceType>100001</ResidenceType>
+						<ResidenceValue>01</ResidenceValue>
+						<AddressLineOne>ΧΑΡΙΤΩΝ</AddressLineOne>
+						<City>ΠΑΛΑΙΟ ΦΑΛΗΡΟ</City>
+						<ZipPostalCode>17564</ZipPostalCode>
+						<ProvinceStateType>200001</ProvinceStateType>
+						<ProvinceStateValue>Other</ProvinceStateValue>
+						<CountyCode>ΑΤΤΙΚΗΣ</CountyCode>
+						<CountryType>300086</CountryType>
+						<CountryValue>GR</CountryValue>
+						<AddressLastUpdateDate>2017-08-31 11:21:14.71</AddressLastUpdateDate>
+						<AddressLastUpdateUser>BANK\C22350</AddressLastUpdateUser>
+						<AddressLastUpdateTxId>1241504167674139</AddressLastUpdateTxId>
+												<TCRMExtension>
+							<ExtendedObject>XAddressBObjExt</ExtendedObject>
+							<XAddressBObjExt>
+								<XAddressIdPK>1221504167674710</XAddressIdPK>
+								<ABStreetIDOne>74976</ABStreetIDOne>
+								<ABStreetOneNumberFrom>31</ABStreetOneNumberFrom>
+								<XAddressLastUpdateDate>2017-08-31 11:21:14.715</XAddressLastUpdateDate>
+								<XAddressLastUpdateUser>BANK\C22350</XAddressLastUpdateUser>
+								<XAddressLastUpdateTxId>1241504167674139</XAddressLastUpdateTxId>
+							</XAddressBObjExt>
+						</TCRMExtension>
+
+						<ComponentID>1004519</ComponentID>
+					</TCRMAddressBObj>
+					<ComponentID>1004624</ComponentID>
+				</TCRMPartyAddressBObj>
+				<TCRMPartyAddressBObj>
+					<PartyAddressIdPK>9591358922584617</PartyAddressIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<AddressId>8852569318318482</AddressId>
+					<AddressUsageType>100002</AddressUsageType>
+					<AddressUsageValue>02</AddressUsageValue>
+					<StartDate>2013-01-23 08:29:44.617</StartDate>
+					<AddressGroupLastUpdateDate>2020-03-11 08:33:06.936</AddressGroupLastUpdateDate>
+					<AddressGroupLastUpdateUser>c21343</AddressGroupLastUpdateUser>
+					<AddressGroupLastUpdateTxId>715458390838610982</AddressGroupLastUpdateTxId>
+					<LocationGroupLastUpdateDate>2020-03-11 08:33:06.933</LocationGroupLastUpdateDate>
+					<LocationGroupLastUpdateUser>c21343</LocationGroupLastUpdateUser>
+					<LocationGroupLastUpdateTxId>715458390838610982</LocationGroupLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XAddressGroupBObjExt</ExtendedObject>
+						<XAddressGroupBObjExt>
+							<XLocationGroupIdPK>9591358922584617</XLocationGroupIdPK>
+							<ABAddressValidationDocumentIndicator>R</ABAddressValidationDocumentIndicator>
+							<ABAddressValidationDocumentType>100001</ABAddressValidationDocumentType>
+							<ABAddressValidationDocumentValue>NOLEVEL.00</ABAddressValidationDocumentValue>
+							<ABAddressValidationDocumentId>{DE856058-DE27-479C-82E0-061833293290}</ABAddressValidationDocumentId>
+							<XAddressGroupLastUpdateDate>2020-03-11 08:33:06.936</XAddressGroupLastUpdateDate>
+							<XAddressGroupLastUpdateUser>c21343</XAddressGroupLastUpdateUser>
+							<XAddressGroupLastUpdateTxId>715458390838610982</XAddressGroupLastUpdateTxId>
+							<ABAddressValidationDocumentLastUpdateDt>2020-03-11 08:21:16.414</ABAddressValidationDocumentLastUpdateDt>
+							<ABAddressValidationDocumentLastUpdateTeller>21343</ABAddressValidationDocumentLastUpdateTeller>
+							<ABAddressValidationDocumentLastUpdateBranch>346</ABAddressValidationDocumentLastUpdateBranch>
+						</XAddressGroupBObjExt>
+					</TCRMExtension>
+
+					<TCRMAddressBObj>
+						<AddressIdPK>8852569318318482</AddressIdPK>
+						<ResidenceType>100001</ResidenceType>
+						<ResidenceValue>01</ResidenceValue>
+						<AddressLineOne>ΠΑΠΑΣΤΡΑΤΟΥ</AddressLineOne>
+						<City>ΠΕΙΡΑΙΑΣ</City>
+						<ZipPostalCode>18545</ZipPostalCode>
+						<ProvinceStateType>200001</ProvinceStateType>
+						<ProvinceStateValue>Other</ProvinceStateValue>
+						<CountyCode>ΑΤΤΙΚΗΣ</CountyCode>
+						<CountryType>300086</CountryType>
+						<CountryValue>GR</CountryValue>
+						<AddressLastUpdateDate>2019-09-24 12:45:18.481</AddressLastUpdateDate>
+						<AddressLastUpdateUser>BANK\X91980</AddressLastUpdateUser>
+						<AddressLastUpdateTxId>561456931831631130</AddressLastUpdateTxId>
+												<TCRMExtension>
+							<ExtendedObject>XAddressBObjExt</ExtendedObject>
+							<XAddressBObjExt>
+								<XAddressIdPK>8852569318318482</XAddressIdPK>
+								<ABStreetIDOne>54840</ABStreetIDOne>
+								<ABStreetOneNumberFrom>17</ABStreetOneNumberFrom>
+								<ABStreetOneNumberTo>19</ABStreetOneNumberTo>
+								<XAddressLastUpdateDate>2019-09-24 12:45:18.481</XAddressLastUpdateDate>
+								<XAddressLastUpdateUser>BANK\X91980</XAddressLastUpdateUser>
+								<XAddressLastUpdateTxId>561456931831631130</XAddressLastUpdateTxId>
+							</XAddressBObjExt>
+						</TCRMExtension>
+
+						<ComponentID>1004519</ComponentID>
+					</TCRMAddressBObj>
+					<ComponentID>1004624</ComponentID>
+				</TCRMPartyAddressBObj>
+				<TCRMPartyContactMethodBObj>
+					<PartyContactMethodIdPK>9203900000001476818</PartyContactMethodIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<ContactMethodId>9203000000001476818</ContactMethodId>
+					<ContactMethodUsageType>5</ContactMethodUsageType>
+					<ContactMethodUsageValue>Mobile1</ContactMethodUsageValue>
+					<ContactMethodStatusType>1</ContactMethodStatusType>
+					<ContactMethodStatusValue>Listed</ContactMethodStatusValue>
+					<SolicitationIndicator>Y</SolicitationIndicator>
+					<StartDate>2009-10-24 16:22:29.0</StartDate>
+					<ContactMethodGroupLastUpdateDate>2020-03-11 08:23:48.182</ContactMethodGroupLastUpdateDate>
+					<ContactMethodGroupLastUpdateUser>Bank\C21343</ContactMethodGroupLastUpdateUser>
+					<ContactMethodGroupLastUpdateTxId>677858390782566113</ContactMethodGroupLastUpdateTxId>
+					<LocationGroupLastUpdateDate>2020-03-11 08:23:48.153</LocationGroupLastUpdateDate>
+					<LocationGroupLastUpdateUser>Bank\C21343</LocationGroupLastUpdateUser>
+					<LocationGroupLastUpdateTxId>677858390782566113</LocationGroupLastUpdateTxId>
+					<TCRMContactMethodBObj>
+						<ContactMethodIdPK>9203000000001476818</ContactMethodIdPK>
+						<ReferenceNumber>6942404754</ReferenceNumber>
+						<ContactMethodType>1</ContactMethodType>
+						<ContactMethodValue>Telephone Number</ContactMethodValue>
+						<ContactMethodLastUpdateDate>2020-03-11 08:23:48.142</ContactMethodLastUpdateDate>
+						<ContactMethodLastUpdateUser>Bank\C21343</ContactMethodLastUpdateUser>
+						<ContactMethodLastUpdateTxId>677858390782566113</ContactMethodLastUpdateTxId>
+					</TCRMContactMethodBObj>
+				</TCRMPartyContactMethodBObj>
+				<TCRMPartyContactMethodBObj>
+					<PartyContactMethodIdPK>651358922584938</PartyContactMethodIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<ContactMethodId>8811358922584674</ContactMethodId>
+					<ContactMethodUsageType>100001</ContactMethodUsageType>
+					<ContactMethodUsageValue>01</ContactMethodUsageValue>
+					<ContactMethodStatusType>1</ContactMethodStatusType>
+					<ContactMethodStatusValue>Listed</ContactMethodStatusValue>
+					<EffectTimeStart>00:00:00</EffectTimeStart>
+					<EffectTimeEnd>00:00:00</EffectTimeEnd>
+					<SolicitationIndicator>N</SolicitationIndicator>
+					<StartDate>2013-01-23 08:29:44.938</StartDate>
+					<ContactMethodGroupLastUpdateDate>2013-01-23 08:29:44.98</ContactMethodGroupLastUpdateDate>
+					<ContactMethodGroupLastUpdateUser>Bank\c16930</ContactMethodGroupLastUpdateUser>
+					<ContactMethodGroupLastUpdateTxId>4771358922581591</ContactMethodGroupLastUpdateTxId>
+					<LocationGroupLastUpdateDate>2013-01-23 08:29:44.938</LocationGroupLastUpdateDate>
+					<LocationGroupLastUpdateUser>Bank\c16930</LocationGroupLastUpdateUser>
+					<LocationGroupLastUpdateTxId>4771358922581591</LocationGroupLastUpdateTxId>
+					<TCRMContactMethodBObj>
+						<ContactMethodIdPK>8811358922584674</ContactMethodIdPK>
+						<ReferenceNumber>2121042894</ReferenceNumber>
+						<ContactMethodType>1</ContactMethodType>
+						<ContactMethodValue>Telephone Number</ContactMethodValue>
+						<ContactMethodLastUpdateDate>2020-03-11 08:23:48.105</ContactMethodLastUpdateDate>
+						<ContactMethodLastUpdateUser>Bank\C21343</ContactMethodLastUpdateUser>
+						<ContactMethodLastUpdateTxId>677858390782566113</ContactMethodLastUpdateTxId>
+					</TCRMContactMethodBObj>
+				</TCRMPartyContactMethodBObj>
+				<TCRMPartyContactMethodBObj>
+					<PartyContactMethodIdPK>2474583907828212</PartyContactMethodIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<ContactMethodId>2415583907828196</ContactMethodId>
+					<ContactMethodUsageType>7</ContactMethodUsageType>
+					<ContactMethodUsageValue>Email1</ContactMethodUsageValue>
+					<ContactMethodStatusType>2</ContactMethodStatusType>
+					<ContactMethodStatusValue>Unlisted</ContactMethodStatusValue>
+					<SolicitationIndicator>Y</SolicitationIndicator>
+					<StartDate>2020-03-11 08:23:48.211</StartDate>
+					<ContactMethodGroupLastUpdateDate>2020-03-11 08:23:48.216</ContactMethodGroupLastUpdateDate>
+					<ContactMethodGroupLastUpdateUser>Bank\C21343</ContactMethodGroupLastUpdateUser>
+					<ContactMethodGroupLastUpdateTxId>677858390782566113</ContactMethodGroupLastUpdateTxId>
+					<LocationGroupLastUpdateDate>2020-03-11 08:23:48.211</LocationGroupLastUpdateDate>
+					<LocationGroupLastUpdateUser>Bank\C21343</LocationGroupLastUpdateUser>
+					<LocationGroupLastUpdateTxId>677858390782566113</LocationGroupLastUpdateTxId>
+					<TCRMContactMethodBObj>
+						<ContactMethodIdPK>2415583907828196</ContactMethodIdPK>
+						<ReferenceNumber>tapaceid@gmail.com</ReferenceNumber>
+						<ContactMethodType>2</ContactMethodType>
+						<ContactMethodValue>Email Address</ContactMethodValue>
+						<ContactMethodLastUpdateDate>2020-03-11 08:23:48.195</ContactMethodLastUpdateDate>
+						<ContactMethodLastUpdateUser>Bank\C21343</ContactMethodLastUpdateUser>
+						<ContactMethodLastUpdateTxId>677858390782566113</ContactMethodLastUpdateTxId>
+					</TCRMContactMethodBObj>
+				</TCRMPartyContactMethodBObj>
+				<TCRMFinancialProfileBObj>
+					<PartyId>9203000000002105242</PartyId>
+					<TCRMIncomeSourceBObj>
+						<IncomeSourceIdPK>9351358922585179</IncomeSourceIdPK>
+						<CurrencyType>300048</CurrencyType>
+						<CurrencyValue>EUR</CurrencyValue>
+						<PartyId>9203000000002105242</PartyId>
+						<IncomeSourceType>1</IncomeSourceType>
+						<IncomeSourceValue>Annual Salary</IncomeSourceValue>
+						<AnnualAmount>-1</AnnualAmount>
+						<InformationObtainedDate>2018-01-01 00:00:00.0</InformationObtainedDate>
+						<IncomeSourceLastUpdateDate>2022-09-28 14:46:26.629</IncomeSourceLastUpdateDate>
+						<IncomeSourceLastUpdateUser>Banktest\c23015</IncomeSourceLastUpdateUser>
+						<IncomeSourceLastUpdateTxId>544366436558614976</IncomeSourceLastUpdateTxId>
+												<TCRMExtension>
+							<ExtendedObject>XTCRMIncomeSourceBObjExt</ExtendedObject>
+							<XTCRMIncomeSourceBObjExt>
+								<XIncomeSourceIdPK>9351358922585179</XIncomeSourceIdPK>
+								<MainIncomeSource>0100010</MainIncomeSource>
+								<IncomeSourceVerificationDocumentReceivedIndicator>Y</IncomeSourceVerificationDocumentReceivedIndicator>
+								<IncomeSourceVerificationDocumentType>100020</IncomeSourceVerificationDocumentType>
+								<IncomeSourceDocumentId>{CC16AD17-D5B3-47D9-BDCA-60B24FD3C8A9}</IncomeSourceDocumentId>
+								<IncomeSourceDocumentUser>21343</IncomeSourceDocumentUser>
+								<IncomeSourceDocumentDate>2020-03-11 08:19:02.646</IncomeSourceDocumentDate>
+								<IncomeSourceDocumentBranch>346</IncomeSourceDocumentBranch>
+								<XTCRMIncomeSourceLastUpdateTxId>544366436558614976</XTCRMIncomeSourceLastUpdateTxId>
+								<XTCRMIncomeSourceLastUpdateUser>Banktest\c23015</XTCRMIncomeSourceLastUpdateUser>
+								<XTCRMIncomeSourceLastUpdateDate>2022-09-28 14:46:26.629</XTCRMIncomeSourceLastUpdateDate>
+							</XTCRMIncomeSourceBObjExt>
+						</TCRMExtension>
+
+						<ComponentID>1004801</ComponentID>
+					</TCRMIncomeSourceBObj>
+					<TCRMIncomeSourceBObj>
+						<IncomeSourceIdPK>7791358922585207</IncomeSourceIdPK>
+						<CurrencyType>300048</CurrencyType>
+						<CurrencyValue>EUR</CurrencyValue>
+						<PartyId>9203000000002105242</PartyId>
+						<IncomeSourceType>2</IncomeSourceType>
+						<IncomeSourceValue>Bonds</IncomeSourceValue>
+						<AnnualAmount>-1</AnnualAmount>
+						<InformationObtainedDate>2018-01-01 00:00:00.0</InformationObtainedDate>
+						<IncomeSourceLastUpdateDate>2022-09-28 14:46:26.66</IncomeSourceLastUpdateDate>
+						<IncomeSourceLastUpdateUser>Banktest\c23015</IncomeSourceLastUpdateUser>
+						<IncomeSourceLastUpdateTxId>544366436558614976</IncomeSourceLastUpdateTxId>
+												<TCRMExtension>
+							<ExtendedObject>XTCRMIncomeSourceBObjExt</ExtendedObject>
+							<XTCRMIncomeSourceBObjExt>
+							</XTCRMIncomeSourceBObjExt>
+						</TCRMExtension>
+
+						<ComponentID>1004801</ComponentID>
+					</TCRMIncomeSourceBObj>
+					<TCRMIncomeSourceBObj>
+						<IncomeSourceIdPK>9231358922585229</IncomeSourceIdPK>
+						<CurrencyType>300048</CurrencyType>
+						<CurrencyValue>EUR</CurrencyValue>
+						<PartyId>9203000000002105242</PartyId>
+						<IncomeSourceType>3</IncomeSourceType>
+						<IncomeSourceValue>Cash Debentures</IncomeSourceValue>
+						<AnnualAmount>19955.21</AnnualAmount>
+						<InformationObtainedDate>2018-01-01 00:00:00.0</InformationObtainedDate>
+						<IncomeSourceLastUpdateDate>2022-09-28 14:46:26.669</IncomeSourceLastUpdateDate>
+						<IncomeSourceLastUpdateUser>Banktest\c23015</IncomeSourceLastUpdateUser>
+						<IncomeSourceLastUpdateTxId>544366436558614976</IncomeSourceLastUpdateTxId>
+												<TCRMExtension>
+							<ExtendedObject>XTCRMIncomeSourceBObjExt</ExtendedObject>
+							<XTCRMIncomeSourceBObjExt>
+							</XTCRMIncomeSourceBObjExt>
+						</TCRMExtension>
+
+						<ComponentID>1004801</ComponentID>
+					</TCRMIncomeSourceBObj>
+					<TCRMIncomeSourceBObj>
+						<IncomeSourceIdPK>2501358922585233</IncomeSourceIdPK>
+						<CurrencyType>300048</CurrencyType>
+						<CurrencyValue>EUR</CurrencyValue>
+						<PartyId>9203000000002105242</PartyId>
+						<IncomeSourceType>4</IncomeSourceType>
+						<IncomeSourceValue>Money Market</IncomeSourceValue>
+						<AnnualAmount>-1</AnnualAmount>
+						<InformationObtainedDate>2018-01-01 00:00:00.0</InformationObtainedDate>
+						<IncomeSourceLastUpdateDate>2022-09-28 14:46:26.676</IncomeSourceLastUpdateDate>
+						<IncomeSourceLastUpdateUser>Banktest\c23015</IncomeSourceLastUpdateUser>
+						<IncomeSourceLastUpdateTxId>544366436558614976</IncomeSourceLastUpdateTxId>
+												<TCRMExtension>
+							<ExtendedObject>XTCRMIncomeSourceBObjExt</ExtendedObject>
+							<XTCRMIncomeSourceBObjExt>
+							</XTCRMIncomeSourceBObjExt>
+						</TCRMExtension>
+
+						<ComponentID>1004801</ComponentID>
+					</TCRMIncomeSourceBObj>
+					<TCRMIncomeSourceBObj>
+						<IncomeSourceIdPK>6541358922585257</IncomeSourceIdPK>
+						<CurrencyType>300048</CurrencyType>
+						<CurrencyValue>EUR</CurrencyValue>
+						<PartyId>9203000000002105242</PartyId>
+						<IncomeSourceType>5</IncomeSourceType>
+						<IncomeSourceValue>Mutual Funds</IncomeSourceValue>
+						<AnnualAmount>-1</AnnualAmount>
+						<InformationObtainedDate>2018-01-01 00:00:00.0</InformationObtainedDate>
+						<IncomeSourceLastUpdateDate>2022-09-28 14:46:26.681</IncomeSourceLastUpdateDate>
+						<IncomeSourceLastUpdateUser>Banktest\c23015</IncomeSourceLastUpdateUser>
+						<IncomeSourceLastUpdateTxId>544366436558614976</IncomeSourceLastUpdateTxId>
+												<TCRMExtension>
+							<ExtendedObject>XTCRMIncomeSourceBObjExt</ExtendedObject>
+							<XTCRMIncomeSourceBObjExt>
+							</XTCRMIncomeSourceBObjExt>
+						</TCRMExtension>
+
+						<ComponentID>1004801</ComponentID>
+					</TCRMIncomeSourceBObj>
+					<TCRMIncomeSourceBObj>
+						<IncomeSourceIdPK>2457583907828300</IncomeSourceIdPK>
+						<CurrencyType>300048</CurrencyType>
+						<CurrencyValue>EUR</CurrencyValue>
+						<PartyId>9203000000002105242</PartyId>
+						<IncomeSourceType>6</IncomeSourceType>
+						<IncomeSourceValue>Net Income</IncomeSourceValue>
+						<AnnualAmount>-1</AnnualAmount>
+						<InformationObtainedDate>2018-01-01 00:00:00.0</InformationObtainedDate>
+						<IncomeSourceLastUpdateDate>2022-09-28 14:46:26.687</IncomeSourceLastUpdateDate>
+						<IncomeSourceLastUpdateUser>Banktest\c23015</IncomeSourceLastUpdateUser>
+						<IncomeSourceLastUpdateTxId>544366436558614976</IncomeSourceLastUpdateTxId>
+												<TCRMExtension>
+							<ExtendedObject>XTCRMIncomeSourceBObjExt</ExtendedObject>
+							<XTCRMIncomeSourceBObjExt>
+							</XTCRMIncomeSourceBObjExt>
+						</TCRMExtension>
+
+						<ComponentID>1004801</ComponentID>
+					</TCRMIncomeSourceBObj>
+				</TCRMFinancialProfileBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>9203000000005256170</IdentificationIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<IdentificationType>100001</IdentificationType>
+					<IdentificationValue>02</IdentificationValue>
+					<IdentificationNumber>Χ026818</IdentificationNumber>
+					<IdentificationStatusType>300001</IdentificationStatusType>
+					<IdentificationStatusValue>01</IdentificationStatusValue>
+					<StartDate>2009-10-24 15:55:21.0</StartDate>
+					<IdentificationDescription>Α.Τ. ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ</IdentificationDescription>
+					<IdentificationIssueLocation>300086</IdentificationIssueLocation>
+					<PartyIdentificationLastUpdateDate>2020-03-11 08:33:06.634</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>c21343</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>715458390838610982</PartyIdentificationLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyIdentificationBObjExt</ExtendedObject>
+						<XPartyIdentificationBObjExt>
+							<XIdentifierIdPK>9203000000005256170</XIdentifierIdPK>
+							<ABIdentificationVerificationDocumentType>100001</ABIdentificationVerificationDocumentType>
+							<ABIdentificationVerificationDocumentValue>02.01</ABIdentificationVerificationDocumentValue>
+							<ABIdentificationVerificationDocumentSubmissionIndicator>R</ABIdentificationVerificationDocumentSubmissionIndicator>
+							<ABIdentificationVerificationDocumentId>{3A55E4B2-3ACE-4039-A107-A0278E92D632}</ABIdentificationVerificationDocumentId>
+							<ABIdentificationVerificationDocumentLastUpdateTeller>21343</ABIdentificationVerificationDocumentLastUpdateTeller>
+							<ABIdentificationVerificationDocumentLastUpdateBranch>346</ABIdentificationVerificationDocumentLastUpdateBranch>
+							<ABIdentificationVerificationDocumentLastUpdateDt>2020-03-11 08:16:45.973</ABIdentificationVerificationDocumentLastUpdateDt>
+							<ABIdentificationIssueDate>2002-01-23 00:00:00.0</ABIdentificationIssueDate>
+							<MergedIdentification>0</MergedIdentification>
+							<XPartyIdentificationLastUpdateTxId>715458390838610982</XPartyIdentificationLastUpdateTxId>
+							<XPartyIdentificationLastUpdateUser>c21343</XPartyIdentificationLastUpdateUser>
+							<XPartyIdentificationLastUpdateDate>2020-03-11 08:33:06.634</XPartyIdentificationLastUpdateDate>
+						</XPartyIdentificationBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1003824</ComponentID>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>9203000000005253270</IdentificationIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<IdentificationType>900001</IdentificationType>
+					<IdentificationValue>99</IdentificationValue>
+					<IdentificationNumber>9413990</IdentificationNumber>
+					<IdentificationStatusType>300001</IdentificationStatusType>
+					<IdentificationStatusValue>01</IdentificationStatusValue>
+					<StartDate>2009-10-24 15:55:21.0</StartDate>
+					<PartyIdentificationLastUpdateDate>2009-10-24 15:55:21.0</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>Bank\c00001</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>9203000000002105242</PartyIdentificationLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyIdentificationBObjExt</ExtendedObject>
+						<XPartyIdentificationBObjExt>
+							<XIdentifierIdPK>9203000000005253270</XIdentifierIdPK>
+							<XPartyIdentificationLastUpdateTxId>9203000000002105242</XPartyIdentificationLastUpdateTxId>
+							<XPartyIdentificationLastUpdateUser>Bank\c00001</XPartyIdentificationLastUpdateUser>
+							<XPartyIdentificationLastUpdateDate>2009-10-24 15:55:21.0</XPartyIdentificationLastUpdateDate>
+						</XPartyIdentificationBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1003824</ComponentID>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>3151358922582173</IdentificationIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<IdentificationType>300001</IdentificationType>
+					<IdentificationValue>01</IdentificationValue>
+					<IdentificationNumber>146861263</IdentificationNumber>
+					<IdentificationStatusType>300001</IdentificationStatusType>
+					<IdentificationStatusValue>01</IdentificationStatusValue>
+					<StartDate>2013-01-23 08:29:42.173</StartDate>
+					<IdentificationDescription>300021</IdentificationDescription>
+					<IdentificationIssueLocation>300086</IdentificationIssueLocation>
+					<PartyIdentificationLastUpdateDate>2020-03-11 08:33:06.649</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>c21343</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>715458390838610982</PartyIdentificationLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyIdentificationBObjExt</ExtendedObject>
+						<XPartyIdentificationBObjExt>
+							<XIdentifierIdPK>3151358922582173</XIdentifierIdPK>
+							<ABIdentificationVerificationDocumentType>100020</ABIdentificationVerificationDocumentType>
+							<ABIdentificationVerificationDocumentValue>01</ABIdentificationVerificationDocumentValue>
+							<ABIdentificationVerificationDocumentSubmissionIndicator>R</ABIdentificationVerificationDocumentSubmissionIndicator>
+							<ABIdentificationVerificationDocumentId>{CC16AD17-D5B3-47D9-BDCA-60B24FD3C8A9}</ABIdentificationVerificationDocumentId>
+							<ABIdentificationVerificationDocumentLastUpdateTeller>21343</ABIdentificationVerificationDocumentLastUpdateTeller>
+							<ABIdentificationVerificationDocumentLastUpdateBranch>346</ABIdentificationVerificationDocumentLastUpdateBranch>
+							<ABIdentificationVerificationDocumentLastUpdateDt>2020-03-11 08:23:18.525</ABIdentificationVerificationDocumentLastUpdateDt>
+							<XPartyIdentificationLastUpdateTxId>715458390838610982</XPartyIdentificationLastUpdateTxId>
+							<XPartyIdentificationLastUpdateUser>c21343</XPartyIdentificationLastUpdateUser>
+							<XPartyIdentificationLastUpdateDate>2020-03-11 08:33:06.649</XPartyIdentificationLastUpdateDate>
+						</XPartyIdentificationBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1003824</ComponentID>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>6521358922582219</IdentificationIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<IdentificationType>100021</IdentificationType>
+					<IdentificationValue>25</IdentificationValue>
+					<IdentificationStatusType>300001</IdentificationStatusType>
+					<IdentificationStatusValue>01</IdentificationStatusValue>
+					<StartDate>2013-01-23 08:29:42.219</StartDate>
+					<IdentificationIssueLocation>300086</IdentificationIssueLocation>
+					<PartyIdentificationLastUpdateDate>2013-01-23 08:29:42.219</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>Bank\c16930</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>4771358922581591</PartyIdentificationLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyIdentificationBObjExt</ExtendedObject>
+						<XPartyIdentificationBObjExt>
+						</XPartyIdentificationBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1003824</ComponentID>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>2419583907826260</IdentificationIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<IdentificationType>300004</IdentificationType>
+					<IdentificationValue>94</IdentificationValue>
+					<IdentificationStatusType>300001</IdentificationStatusType>
+					<IdentificationStatusValue>01</IdentificationStatusValue>
+					<StartDate>2020-03-11 08:23:46.259</StartDate>
+					<PartyIdentificationLastUpdateDate>2020-03-11 08:23:46.259</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>Bank\C21343</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>677858390782566113</PartyIdentificationLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyIdentificationBObjExt</ExtendedObject>
+						<XPartyIdentificationBObjExt>
+							<XIdentifierIdPK>2419583907826260</XIdentifierIdPK>
+							<ABIdentificationVerificationDocumentSubmissionIndicator>N</ABIdentificationVerificationDocumentSubmissionIndicator>
+							<XPartyIdentificationLastUpdateTxId>677858390782566113</XPartyIdentificationLastUpdateTxId>
+							<XPartyIdentificationLastUpdateUser>Bank\C21343</XPartyIdentificationLastUpdateUser>
+							<XPartyIdentificationLastUpdateDate>2020-03-11 08:23:46.259</XPartyIdentificationLastUpdateDate>
+						</XPartyIdentificationBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1003824</ComponentID>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>2441583907826277</IdentificationIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<IdentificationType>300005</IdentificationType>
+					<IdentificationValue>95</IdentificationValue>
+					<IdentificationStatusType>300001</IdentificationStatusType>
+					<IdentificationStatusValue>01</IdentificationStatusValue>
+					<StartDate>2020-03-11 08:23:46.276</StartDate>
+					<PartyIdentificationLastUpdateDate>2020-03-11 08:23:46.276</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>Bank\C21343</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>677858390782566113</PartyIdentificationLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyIdentificationBObjExt</ExtendedObject>
+						<XPartyIdentificationBObjExt>
+							<XIdentifierIdPK>2441583907826277</XIdentifierIdPK>
+							<ABIdentificationVerificationDocumentSubmissionIndicator>N</ABIdentificationVerificationDocumentSubmissionIndicator>
+							<XPartyIdentificationLastUpdateTxId>677858390782566113</XPartyIdentificationLastUpdateTxId>
+							<XPartyIdentificationLastUpdateUser>Bank\C21343</XPartyIdentificationLastUpdateUser>
+							<XPartyIdentificationLastUpdateDate>2020-03-11 08:23:46.276</XPartyIdentificationLastUpdateDate>
+						</XPartyIdentificationBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1003824</ComponentID>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyRelationshipBObj>
+					<PartyRelationshipIdPK>9207000000003638077</PartyRelationshipIdPK>
+					<RelationshipType>900001</RelationshipType>
+					<RelationshipValue>ΔΙΚΑΙΟΥΧΟΣ ΣΕ ΟΜΑΔΑ ΠΕΛΑΤΩΝ</RelationshipValue>
+					<RelationshipFromPartyId>9207000000001595539</RelationshipFromPartyId>
+					<RelationshipFromValue>9203000000002105242</RelationshipFromValue>
+					<RelationshipToPartyId>9203000000002105242</RelationshipToPartyId>
+					<RelationshipToValue>9207000000001595539</RelationshipToValue>
+					<StartDate>2004-08-30 00:00:00.0</StartDate>
+					<PartyRelationshipLastUpdateDate>2022-12-13 16:08:14.46</PartyRelationshipLastUpdateDate>
+					<PartyRelationshipLastUpdateUser>banktest\c23060</PartyRelationshipLastUpdateUser>
+					<PartyRelationshipLastUpdateTxId>312267094049405350</PartyRelationshipLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyRelationshipBObjExt</ExtendedObject>
+						<XPartyRelationshipBObjExt>
+							<XPartyRelationshipIdPK>9207000000003638077</XPartyRelationshipIdPK>
+							<MemberOrder>2</MemberOrder>
+							<XPartyRelationshipLastUpdateDate>2022-12-13 16:08:14.46</XPartyRelationshipLastUpdateDate>
+							<XPartyRelationshipLastUpdateUser>banktest\c23060</XPartyRelationshipLastUpdateUser>
+							<XPartyRelationshipLastUpdateTxId>312267094049405350</XPartyRelationshipLastUpdateTxId>
+							<XTargetCustomerType>J</XTargetCustomerType>
+							<XTargetCustomerOrgTittle>Γξυρργηγτζγε Χβρβζ Αβρ ,Γξυρργηγτζγε Αββερ Χβρ </XTargetCustomerOrgTittle>
+							<XTargetCustomerAlphanetId>6055071</XTargetCustomerAlphanetId>
+							<XTargetCustomerPartyId>9207000000001595539</XTargetCustomerPartyId>
+							<BackendSystems>1100000000000000000000000000000000000000</BackendSystems>
+						</XPartyRelationshipBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1003950</ComponentID>
+					<RelationshipToPartyName>Κοινή Πελατειακή Μερίδα</RelationshipToPartyName>
+				</TCRMPartyRelationshipBObj>
+				<TCRMPartyRelationshipBObj>
+					<PartyRelationshipIdPK>5735583909658976</PartyRelationshipIdPK>
+					<RelationshipType>900001</RelationshipType>
+					<RelationshipValue>ΔΙΚΑΙΟΥΧΟΣ ΣΕ ΟΜΑΔΑ ΠΕΛΑΤΩΝ</RelationshipValue>
+					<RelationshipFromPartyId>5778583909658912</RelationshipFromPartyId>
+					<RelationshipFromValue>9203000000002105242</RelationshipFromValue>
+					<RelationshipToPartyId>9203000000002105242</RelationshipToPartyId>
+					<RelationshipToValue>5778583909658912</RelationshipToValue>
+					<StartDate>2020-03-11 08:53:28.943</StartDate>
+					<PartyRelationshipLastUpdateDate>2022-12-13 16:08:14.48</PartyRelationshipLastUpdateDate>
+					<PartyRelationshipLastUpdateUser>banktest\c23060</PartyRelationshipLastUpdateUser>
+					<PartyRelationshipLastUpdateTxId>312267094049405350</PartyRelationshipLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyRelationshipBObjExt</ExtendedObject>
+						<XPartyRelationshipBObjExt>
+							<XPartyRelationshipIdPK>5735583909658976</XPartyRelationshipIdPK>
+							<MemberOrder>2</MemberOrder>
+							<XPartyRelationshipLastUpdateDate>2022-12-13 16:08:14.48</XPartyRelationshipLastUpdateDate>
+							<XPartyRelationshipLastUpdateUser>banktest\c23060</XPartyRelationshipLastUpdateUser>
+							<XPartyRelationshipLastUpdateTxId>312267094049405350</XPartyRelationshipLastUpdateTxId>
+							<XTargetCustomerType>J</XTargetCustomerType>
+							<XTargetCustomerOrgTittle>Κγζγργτργτ Πβτζτ Δβτ ,Γξυρργηγτζγε Αββερ Χβρ </XTargetCustomerOrgTittle>
+							<XTargetCustomerAlphanetId>18682720</XTargetCustomerAlphanetId>
+							<XTargetCustomerPartyId>5778583909658912</XTargetCustomerPartyId>
+							<BackendSystems>1100000000000000000000000000000000000000</BackendSystems>
+						</XPartyRelationshipBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1003950</ComponentID>
+					<RelationshipToPartyName>Ομάδα Πελατών</RelationshipToPartyName>
+				</TCRMPartyRelationshipBObj>
+				<TCRMAdminContEquivBObj>
+					<AdminContEquivIdPK>9203000000002107330</AdminContEquivIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<AdminPartyId>9413990</AdminPartyId>
+					<AdminSystemType>300001</AdminSystemType>
+					<AdminSystemValue>01</AdminSystemValue>
+					<ContEquivLastUpdateDate>2022-12-13 16:08:14.415</ContEquivLastUpdateDate>
+					<ContEquivLastUpdateUser>banktest\c23060</ContEquivLastUpdateUser>
+					<ContEquivLastUpdateTxId>312267094049405350</ContEquivLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XAdminContEquivBObjExt</ExtendedObject>
+						<XAdminContEquivBObjExt>
+							<XAdminContEquivLastUpdateTxId>312267094049405350</XAdminContEquivLastUpdateTxId>
+							<XAdminContEquivLastUpdateUser>banktest\c23060</XAdminContEquivLastUpdateUser>
+							<XAdminContEquivLastUpdateDate>2022-12-13 16:08:14.415</XAdminContEquivLastUpdateDate>
+						</XAdminContEquivBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1004748</ComponentID>
+				</TCRMAdminContEquivBObj>
+				<TCRMAdminContEquivBObj>
+					<AdminContEquivIdPK>9215520000003361215</AdminContEquivIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<AdminPartyId>9413990</AdminPartyId>
+					<AdminSystemType>300002</AdminSystemType>
+					<AdminSystemValue>02</AdminSystemValue>
+					<ContEquivLastUpdateDate>2022-12-13 16:08:14.422</ContEquivLastUpdateDate>
+					<ContEquivLastUpdateUser>banktest\c23060</ContEquivLastUpdateUser>
+					<ContEquivLastUpdateTxId>312267094049405350</ContEquivLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XAdminContEquivBObjExt</ExtendedObject>
+						<XAdminContEquivBObjExt>
+							<XAdminContEquivLastUpdateTxId>312267094049405350</XAdminContEquivLastUpdateTxId>
+							<XAdminContEquivLastUpdateUser>banktest\c23060</XAdminContEquivLastUpdateUser>
+							<XAdminContEquivLastUpdateDate>2022-12-13 16:08:14.422</XAdminContEquivLastUpdateDate>
+						</XAdminContEquivBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1004748</ComponentID>
+				</TCRMAdminContEquivBObj>
+				<TCRMAdminContEquivBObj>
+					<AdminContEquivIdPK>1431359699005140</AdminContEquivIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<AdminPartyId>9413990</AdminPartyId>
+					<AdminSystemType>300012</AdminSystemType>
+					<AdminSystemValue>12</AdminSystemValue>
+					<ContEquivLastUpdateDate>2022-12-13 16:08:14.425</ContEquivLastUpdateDate>
+					<ContEquivLastUpdateUser>banktest\c23060</ContEquivLastUpdateUser>
+					<ContEquivLastUpdateTxId>312267094049405350</ContEquivLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XAdminContEquivBObjExt</ExtendedObject>
+						<XAdminContEquivBObjExt>
+							<XAdminContEquivLastUpdateTxId>312267094049405350</XAdminContEquivLastUpdateTxId>
+							<XAdminContEquivLastUpdateUser>banktest\c23060</XAdminContEquivLastUpdateUser>
+							<XAdminContEquivLastUpdateDate>2022-12-13 16:08:14.425</XAdminContEquivLastUpdateDate>
+						</XAdminContEquivBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1004748</ComponentID>
+				</TCRMAdminContEquivBObj>
+				<TCRMAdminContEquivBObj>
+					<AdminContEquivIdPK>1225670226262143</AdminContEquivIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<AdminPartyId>9413990</AdminPartyId>
+					<AdminSystemType>300023</AdminSystemType>
+					<AdminSystemValue>23</AdminSystemValue>
+					<ContEquivLastUpdateDate>2022-12-13 16:08:14.428</ContEquivLastUpdateDate>
+					<ContEquivLastUpdateUser>banktest\c23060</ContEquivLastUpdateUser>
+					<ContEquivLastUpdateTxId>312267094049405350</ContEquivLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XAdminContEquivBObjExt</ExtendedObject>
+						<XAdminContEquivBObjExt>
+							<XAdminContEquivLastUpdateTxId>312267094049405350</XAdminContEquivLastUpdateTxId>
+							<XAdminContEquivLastUpdateUser>banktest\c23060</XAdminContEquivLastUpdateUser>
+							<XAdminContEquivLastUpdateDate>2022-12-13 16:08:14.428</XAdminContEquivLastUpdateDate>
+						</XAdminContEquivBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1004748</ComponentID>
+				</TCRMAdminContEquivBObj>
+				<TCRMAdminContEquivBObj>
+					<AdminContEquivIdPK>3098583908386657</AdminContEquivIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<AdminPartyId>9413990</AdminPartyId>
+					<AdminSystemType>300021</AdminSystemType>
+					<AdminSystemValue>21</AdminSystemValue>
+					<ContEquivLastUpdateDate>2022-12-13 16:08:14.43</ContEquivLastUpdateDate>
+					<ContEquivLastUpdateUser>banktest\c23060</ContEquivLastUpdateUser>
+					<ContEquivLastUpdateTxId>312267094049405350</ContEquivLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XAdminContEquivBObjExt</ExtendedObject>
+						<XAdminContEquivBObjExt>
+							<XAdminContEquivLastUpdateTxId>312267094049405350</XAdminContEquivLastUpdateTxId>
+							<XAdminContEquivLastUpdateUser>banktest\c23060</XAdminContEquivLastUpdateUser>
+							<XAdminContEquivLastUpdateDate>2022-12-13 16:08:14.43</XAdminContEquivLastUpdateDate>
+						</XAdminContEquivBObjExt>
+					</TCRMExtension>
+
+					<ComponentID>1004748</ComponentID>
+				</TCRMAdminContEquivBObj>
+				<TCRMPartyLobRelationshipBObj>
+					<ComponentID>2000035</ComponentID>
+					<PartyLobRelationshipIdPK>9203000000002107331</PartyLobRelationshipIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<RelatedLobType>300001</RelatedLobType>
+					<RelatedLobValue>01</RelatedLobValue>
+					<LobRelationshipType>1</LobRelationshipType>
+					<LobRelationshipValue>Owner</LobRelationshipValue>
+					<StartDate>2009-10-24 16:24:58.0</StartDate>
+					<PartyLobRelationshipLastUpdateDate>2009-10-24 16:24:58.0</PartyLobRelationshipLastUpdateDate>
+					<PartyLobRelationshipLastUpdateUser>Bank\c00001</PartyLobRelationshipLastUpdateUser>
+					<PartyLobRelationshipLastUpdateTxId>9203000000002105242</PartyLobRelationshipLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyLobRelationshipBObjExt</ExtendedObject>
+						<XPartyLobRelationshipBObjExt>
+							<XPartyLobRelationshipIdPK>9203000000002107331</XPartyLobRelationshipIdPK>
+							<ABForwardDate>2009-10-24 16:24:58.0</ABForwardDate>
+							<ABForwardTeller>Bank\c00001</ABForwardTeller>
+							<ABForwardCountryType>300086</ABForwardCountryType>
+							<ABForwardCountryValue>GR</ABForwardCountryValue>
+							<XPartyLobRelationshipLastUpdateDate>2009-10-24 16:24:58.0</XPartyLobRelationshipLastUpdateDate>
+							<XPartyLobRelationshipLastUpdateUser>Bank\c00001</XPartyLobRelationshipLastUpdateUser>
+							<XPartyLobRelationshipLastUpdateTxId>9203000000002105242</XPartyLobRelationshipLastUpdateTxId>
+						</XPartyLobRelationshipBObjExt>
+					</TCRMExtension>
+
+				</TCRMPartyLobRelationshipBObj>
+				<TCRMPartyLobRelationshipBObj>
+					<ComponentID>2000035</ComponentID>
+					<PartyLobRelationshipIdPK>9215520000003361215</PartyLobRelationshipIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<RelatedLobType>300002</RelatedLobType>
+					<RelatedLobValue>02</RelatedLobValue>
+					<LobRelationshipType>1</LobRelationshipType>
+					<LobRelationshipValue>Owner</LobRelationshipValue>
+					<StartDate>2011-11-25 23:29:30.544</StartDate>
+					<PartyLobRelationshipLastUpdateDate>2011-11-25 23:29:30.544</PartyLobRelationshipLastUpdateDate>
+					<PartyLobRelationshipLastUpdateUser>bank\c00001</PartyLobRelationshipLastUpdateUser>
+					<PartyLobRelationshipLastUpdateTxId>9215520000003361215</PartyLobRelationshipLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyLobRelationshipBObjExt</ExtendedObject>
+						<XPartyLobRelationshipBObjExt>
+							<XPartyLobRelationshipIdPK>9215520000003361215</XPartyLobRelationshipIdPK>
+							<ABBranchType>099</ABBranchType>
+							<ABForwardDate>2011-11-25 23:54:02.498</ABForwardDate>
+							<ABForwardTeller>bank\c00001</ABForwardTeller>
+							<ABForwardCompanyType>01</ABForwardCompanyType>
+							<ABForwardCountryType>300086</ABForwardCountryType>
+							<ABForwardCountryValue>GR</ABForwardCountryValue>
+							<XPartyLobRelationshipLastUpdateDate>2011-11-25 23:29:30.544</XPartyLobRelationshipLastUpdateDate>
+							<XPartyLobRelationshipLastUpdateUser>bank\c00001</XPartyLobRelationshipLastUpdateUser>
+							<XPartyLobRelationshipLastUpdateTxId>9215520000003361215</XPartyLobRelationshipLastUpdateTxId>
+						</XPartyLobRelationshipBObjExt>
+					</TCRMExtension>
+
+				</TCRMPartyLobRelationshipBObj>
+				<TCRMPartyLobRelationshipBObj>
+					<ComponentID>2000035</ComponentID>
+					<PartyLobRelationshipIdPK>6691359699005195</PartyLobRelationshipIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<RelatedLobType>300012</RelatedLobType>
+					<RelatedLobValue>12</RelatedLobValue>
+					<LobRelationshipType>1</LobRelationshipType>
+					<LobRelationshipValue>Owner</LobRelationshipValue>
+					<StartDate>2013-02-01 08:10:04.553</StartDate>
+					<PartyLobRelationshipLastUpdateDate>2013-02-01 08:10:05.195</PartyLobRelationshipLastUpdateDate>
+					<PartyLobRelationshipLastUpdateUser>Bank\c00001</PartyLobRelationshipLastUpdateUser>
+					<PartyLobRelationshipLastUpdateTxId>6951359699004917</PartyLobRelationshipLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyLobRelationshipBObjExt</ExtendedObject>
+						<XPartyLobRelationshipBObjExt>
+							<XPartyLobRelationshipIdPK>6691359699005195</XPartyLobRelationshipIdPK>
+							<ABBranchType>099</ABBranchType>
+							<ABForwardDate>2013-02-01 08:10:04.553</ABForwardDate>
+							<ABForwardTeller>Bank\c00001</ABForwardTeller>
+							<ABForwardCompanyType>01</ABForwardCompanyType>
+							<ABForwardCountryType>300086</ABForwardCountryType>
+							<ABForwardCountryValue>GR</ABForwardCountryValue>
+							<XPartyLobRelationshipLastUpdateDate>2013-02-01 08:10:05.195</XPartyLobRelationshipLastUpdateDate>
+							<XPartyLobRelationshipLastUpdateUser>Bank\c00001</XPartyLobRelationshipLastUpdateUser>
+							<XPartyLobRelationshipLastUpdateTxId>6951359699004917</XPartyLobRelationshipLastUpdateTxId>
+						</XPartyLobRelationshipBObjExt>
+					</TCRMExtension>
+
+				</TCRMPartyLobRelationshipBObj>
+				<TCRMPartyLobRelationshipBObj>
+					<ComponentID>2000035</ComponentID>
+					<PartyLobRelationshipIdPK>1211670226262215</PartyLobRelationshipIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<RelatedLobType>300023</RelatedLobType>
+					<RelatedLobValue>23</RelatedLobValue>
+					<LobRelationshipType>1</LobRelationshipType>
+					<LobRelationshipValue>Owner</LobRelationshipValue>
+					<StartDate>2022-12-05 09:44:22.214</StartDate>
+					<PartyLobRelationshipLastUpdateDate>2022-12-05 09:44:22.214</PartyLobRelationshipLastUpdateDate>
+					<PartyLobRelationshipLastUpdateUser>banktest\c23060</PartyLobRelationshipLastUpdateUser>
+					<PartyLobRelationshipLastUpdateTxId>952767022626164471</PartyLobRelationshipLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyLobRelationshipBObjExt</ExtendedObject>
+						<XPartyLobRelationshipBObjExt>
+							<XPartyLobRelationshipIdPK>1211670226262215</XPartyLobRelationshipIdPK>
+							<ABBranchType>101</ABBranchType>
+							<ABForwardDate>2022-12-05 09:44:11.046</ABForwardDate>
+							<ABForwardTeller>banktest\c23060</ABForwardTeller>
+							<ABForwardCompanyType>01</ABForwardCompanyType>
+							<ABForwardCountryType>300086</ABForwardCountryType>
+							<ABForwardCountryValue>GR</ABForwardCountryValue>
+							<XPartyLobRelationshipLastUpdateDate>2022-12-05 09:44:22.214</XPartyLobRelationshipLastUpdateDate>
+							<XPartyLobRelationshipLastUpdateUser>banktest\c23060</XPartyLobRelationshipLastUpdateUser>
+							<XPartyLobRelationshipLastUpdateTxId>952767022626164471</XPartyLobRelationshipLastUpdateTxId>
+						</XPartyLobRelationshipBObjExt>
+					</TCRMExtension>
+
+				</TCRMPartyLobRelationshipBObj>
+				<TCRMPartyLobRelationshipBObj>
+					<ComponentID>2000035</ComponentID>
+					<PartyLobRelationshipIdPK>3045583908386982</PartyLobRelationshipIdPK>
+					<PartyId>9203000000002105242</PartyId>
+					<RelatedLobType>300021</RelatedLobType>
+					<RelatedLobValue>21</RelatedLobValue>
+					<LobRelationshipType>1</LobRelationshipType>
+					<LobRelationshipValue>Owner</LobRelationshipValue>
+					<StartDate>2020-03-11 08:33:05.572</StartDate>
+					<PartyLobRelationshipLastUpdateDate>2020-03-11 08:33:06.981</PartyLobRelationshipLastUpdateDate>
+					<PartyLobRelationshipLastUpdateUser>c21343</PartyLobRelationshipLastUpdateUser>
+					<PartyLobRelationshipLastUpdateTxId>715458390838610982</PartyLobRelationshipLastUpdateTxId>
+										<TCRMExtension>
+						<ExtendedObject>XPartyLobRelationshipBObjExt</ExtendedObject>
+						<XPartyLobRelationshipBObjExt>
+							<XPartyLobRelationshipIdPK>3045583908386982</XPartyLobRelationshipIdPK>
+							<ABBranchType>0346</ABBranchType>
+							<ABForwardDate>2020-03-11 08:33:05.572</ABForwardDate>
+							<ABForwardTeller>c21343</ABForwardTeller>
+							<ABForwardCompanyType>01</ABForwardCompanyType>
+							<ABForwardCountryType>300086</ABForwardCountryType>
+							<ABForwardCountryValue>GR</ABForwardCountryValue>
+							<XPartyLobRelationshipLastUpdateDate>2020-03-11 08:33:06.981</XPartyLobRelationshipLastUpdateDate>
+							<XPartyLobRelationshipLastUpdateUser>c21343</XPartyLobRelationshipLastUpdateUser>
+							<XPartyLobRelationshipLastUpdateTxId>715458390838610982</XPartyLobRelationshipLastUpdateTxId>
+						</XPartyLobRelationshipBObjExt>
+					</TCRMExtension>
+
+				</TCRMPartyLobRelationshipBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>6561358922581859</PersonNameIdPK>
+					<NameUsageType>4</NameUsageType>
+					<NameUsageValue>Spouse</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2013-01-23 08:29:41.859</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.243</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>Bank\c16930</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>4771358922581591</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>Bank\c16930</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.243</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>6971358922582000</PersonNameIdPK>
+					<NameUsageType>9</NameUsageType>
+					<NameUsageValue>Phonetic</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Αββερβετγε</GivenNameOne>
+					<GivenNameTwo>Δλωλρρτγε</GivenNameTwo>
+					<LastName>Γξυρργηγτζγε</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2013-01-23 08:29:42.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.245</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.245</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9681358922582094</PersonNameIdPK>
+					<NameUsageType>10</NameUsageType>
+					<NameUsageValue>Fathers phonetic</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Χβρβζβωηγε</GivenNameOne>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2013-01-23 08:29:42.094</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.25</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.25</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023282990</PersonNameIdPK>
+					<NameUsageType>1</NameUsageType>
+					<NameUsageValue>Legal</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Αββερβετγε</GivenNameOne>
+					<GivenNameTwo>Δλωλρρτγε</GivenNameTwo>
+					<GivenNameFour>Χβρβζβωηγε</GivenNameFour>
+					<LastName>Γξυρργηγτζγε</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.254</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.254</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023282994</PersonNameIdPK>
+					<NameUsageType>2</NameUsageType>
+					<NameUsageValue>Fathers Genitive</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Χβρβζβωηγε</GivenNameOne>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.255</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.255</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023282998</PersonNameIdPK>
+					<NameUsageType>3</NameUsageType>
+					<NameUsageValue>Mothers Genitive</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Χρτερτββ</GivenNameOne>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.256</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.256</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283002</PersonNameIdPK>
+					<NameUsageType>5</NameUsageType>
+					<NameUsageValue>Latin</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>ABBERBETCE</GivenNameOne>
+					<GivenNameTwo>DTWTRRTCE</GivenNameTwo>
+					<GivenNameFour>CBBERBETCE</GivenNameFour>
+					<LastName>GXCRHCHCTZCE</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.256</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>Bank\c00001</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>9203000000002105242</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>Bank\c00001</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.256</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283006</PersonNameIdPK>
+					<NameUsageType>6</NameUsageType>
+					<NameUsageValue>Standardized</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>ΑΒΒΕΡΒΕΤΓΕ</GivenNameOne>
+					<GivenNameTwo>ΔΛΩΛΡΡΤΓΕ</GivenNameTwo>
+					<GivenNameFour>ΧΒBΕΡBΕΤΓΕ</GivenNameFour>
+					<LastName>Γξυρργηγτζγε</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.257</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.257</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283010</PersonNameIdPK>
+					<NameUsageType>7</NameUsageType>
+					<NameUsageValue>Vocative</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Αββερβετγε</GivenNameOne>
+					<GivenNameTwo>Δλωλρρτγε</GivenNameTwo>
+					<LastName>Γξυρργηγτζγε</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.258</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.258</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283014</PersonNameIdPK>
+					<NameUsageType>8</NameUsageType>
+					<NameUsageValue>Accusative</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Αββερβετγε</GivenNameOne>
+					<GivenNameTwo>Δλωλρρτγε</GivenNameTwo>
+					<LastName>Γξυρργηγτζγε</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.258</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.258</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283018</PersonNameIdPK>
+					<NameUsageType>11</NameUsageType>
+					<NameUsageValue>Fathers Latin</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>CLBRBZBWHCE</GivenNameOne>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.259</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>Bank\c00001</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>9203000000002105242</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>Bank\c00001</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.259</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283022</PersonNameIdPK>
+					<NameUsageType>12</NameUsageType>
+					<NameUsageValue>Fathers Standardized</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>ΧΒΡΒΖΒΩΗΓΕ</GivenNameOne>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.26</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.26</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283026</PersonNameIdPK>
+					<NameUsageType>13</NameUsageType>
+					<NameUsageValue>Mothers Standardized</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>ΧΡΤΕΡΤΒΒ</GivenNameOne>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.26</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>banktest\c23060</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>535464683634022088</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>banktest\c23060</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.26</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283030</PersonNameIdPK>
+					<NameUsageType>14</NameUsageType>
+					<NameUsageValue>Father</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Χβρβζβωηγε</GivenNameOne>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.26</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>Bank\c00001</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>9203000000002105242</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>Bank\c00001</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.26</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPersonNameBObj>
+					<PersonNameIdPK>9203000000023283034</PersonNameIdPK>
+					<NameUsageType>15</NameUsageType>
+					<NameUsageValue>Mother</NameUsageValue>
+					<PrefixType>1</PrefixType>
+					<PrefixValue>Colonel</PrefixValue>
+					<GivenNameOne>Χρτερτββ</GivenNameOne>
+					<LastName>NOT_SPECIFIED</LastName>
+					<PersonPartyId>9203000000002105242</PersonPartyId>
+					<StartDate>2009-10-24 15:50:05.0</StartDate>
+					<PersonNameLastUpdateDate>2022-03-24 14:34:18.261</PersonNameLastUpdateDate>
+					<PersonNameLastUpdateUser>Bank\c00001</PersonNameLastUpdateUser>
+					<PersonNameLastUpdateTxId>9203000000002105242</PersonNameLastUpdateTxId>
+					<LastUpdatedBy>Bank\c00001</LastUpdatedBy>
+					<LastUpdatedDate>2022-03-24 14:34:18.261</LastUpdatedDate>
+				</TCRMPersonNameBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>7991358922585401</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>1</PartyValueType>
+					<PartyValueValue>AML</PartyValueValue>
+					<StartDate>2013-01-23 08:29:45.401</StartDate>
+					<PartyValueLastUpdateDate>2013-02-01 08:10:05.312</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>Bank\c00001</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>6951359699004917</PartyValueLastUpdateTxId>
+					<Attribute0Type>1</Attribute0Type>
+					<Attribute0Value>AML LIST CODE</Attribute0Value>
+					<Attribute1Type>2</Attribute1Type>
+					<Attribute1Value>AML LIST CODE LAST UPDATE DATE</Attribute1Value>
+					<Attribute4Type>115</Attribute4Type>
+					<Attribute4Value>HAS AML</Attribute4Value>
+					<Attribute4String>N</Attribute4String>
+					<Attribute5Type>116</Attribute5Type>
+					<Attribute5Value>AML UPDATE USER</Attribute5Value>
+					<Attribute6Type>117</Attribute6Type>
+					<Attribute6Value>AML UPDATE BRANCH</Attribute6Value>
+					<CategoryType>1</CategoryType>
+					<CategoryValue>AML</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>9203000000013223710</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>2</PartyValueType>
+					<PartyValueValue>Individual Profession Data</PartyValueValue>
+					<StartDate>2009-10-24 16:09:39.0</StartDate>
+					<PartyValueLastUpdateDate>2021-04-17 12:03:28.978</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>Bank\C21343</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>101358391234227027</PartyValueLastUpdateTxId>
+					<Attribute0Type>5</Attribute0Type>
+					<Attribute0Value>EMPLOYER COMPANY NAME</Attribute0Value>
+					<Attribute0String>ALPHA BANK</Attribute0String>
+					<Attribute1Type>6</Attribute1Type>
+					<Attribute1Value>EMPLOYER TAX ID</Attribute1Value>
+					<Attribute3Type>7</Attribute3Type>
+					<Attribute3Value>COMPANY POSITION TITLE</Attribute3Value>
+					<Attribute3String>100009</Attribute3String>
+					<Attribute4Type>8</Attribute4Type>
+					<Attribute4Value>EMPLOYMENT TYPE</Attribute4Value>
+					<Attribute4String>100005</Attribute4String>
+					<Attribute5Type>9</Attribute5Type>
+					<Attribute5Value>YEAR OF HIRE IN COMPANY</Attribute5Value>
+					<Attribute5String>2017-03-11</Attribute5String>
+					<Attribute6Type>10</Attribute6Type>
+					<Attribute6Value>YEAR OF POSITION UNTERTAKEN</Attribute6Value>
+					<Attribute6String>2017-03-11</Attribute6String>
+					<Attribute7Type>11</Attribute7Type>
+					<Attribute7Value>ALPHA GROUP EMPLOYEE NUMBER</Attribute7Value>
+					<Attribute7String>22798</Attribute7String>
+					<Attribute8Type>82</Attribute8Type>
+					<Attribute8Value>ALPHA GROUP EMPLOYER COMPANY</Attribute8Value>
+					<Attribute8String>100001</Attribute8String>
+					<CategoryType>2</CategoryType>
+					<CategoryValue>Individual Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>9203000000013219290</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>3</PartyValueType>
+					<PartyValueValue>Individual Party Data</PartyValueValue>
+					<StartDate>2009-10-24 16:09:39.0</StartDate>
+					<PartyValueLastUpdateDate>2020-03-11 08:23:48.302</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>Bank\C21343</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>677858390782566113</PartyValueLastUpdateTxId>
+					<Attribute0Type>12</Attribute0Type>
+					<Attribute0Value>W8,W9 INDICATOR</Attribute0Value>
+					<Attribute0String>100003</Attribute0String>
+					<Attribute1Type>13</Attribute1Type>
+					<Attribute1Value>RESIDENCE INDICATOR</Attribute1Value>
+					<Attribute2Type>14</Attribute2Type>
+					<Attribute2Value>MONTHLY RENT AMOUNT</Attribute2Value>
+					<Attribute3Type>15</Attribute3Type>
+					<Attribute3Value>RESIDENCE SETTLEMENT YEAR</Attribute3Value>
+					<Attribute4Type>16</Attribute4Type>
+					<Attribute4Value>1st SECRET QUESTION</Attribute4Value>
+					<Attribute5Type>16</Attribute5Type>
+					<Attribute5Value>1st SECRET QUESTION</Attribute5Value>
+					<Attribute6Type>17</Attribute6Type>
+					<Attribute6Value>1st SECRET ANSWER</Attribute6Value>
+					<Attribute7Type>18</Attribute7Type>
+					<Attribute7Value>2nd SECRET QUESTION</Attribute7Value>
+					<Attribute8Type>19</Attribute8Type>
+					<Attribute8Value>2nd SECRET ANSWER</Attribute8Value>
+					<Attribute9Type>90</Attribute9Type>
+					<Attribute9Value>ALPHA GROUP DATA SHARING INDICATOR</Attribute9Value>
+					<Attribute9String>N</Attribute9String>
+					<CategoryType>2</CategoryType>
+					<CategoryValue>Individual Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>9203000000013220702</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>4</PartyValueType>
+					<PartyValueValue>Risk Classification</PartyValueValue>
+					<StartDate>2009-10-24 16:09:39.0</StartDate>
+					<PartyValueLastUpdateDate>2022-09-19 10:38:46.392</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>banktest\c23060</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>166466357312599970</PartyValueLastUpdateTxId>
+					<Attribute0Type>20</Attribute0Type>
+					<Attribute0Value>RISK CLASSIFICATION INDICATOR</Attribute0Value>
+					<Attribute0String>Y</Attribute0String>
+					<Attribute1Type>21</Attribute1Type>
+					<Attribute1Value>RISK CLASSIFICATION CATEGORY</Attribute1Value>
+					<Attribute1String>300002</Attribute1String>
+					<Attribute2Type>22</Attribute2Type>
+					<Attribute2Value>RISK CLASSIFICATION LAST UPDATE BRANCH</Attribute2Value>
+					<Attribute2String>101</Attribute2String>
+					<Attribute3Type>103</Attribute3Type>
+					<Attribute3Value>RISK CLASSIFICATION LAST UPDATE DATE</Attribute3Value>
+					<Attribute3String>2022-09-19 10:38:43.938</Attribute3String>
+					<Attribute4Type>104</Attribute4Type>
+					<Attribute4Value>RISK CLASSIFICATION LAST USER</Attribute4Value>
+					<Attribute4String>banktest\c23060</Attribute4String>
+					<Attribute5Type>114</Attribute5Type>
+					<Attribute5Value>RISK JUSTIFICATION</Attribute5Value>
+					<Attribute6Type>120</Attribute6Type>
+					<Attribute6Value>RISK DOC ID</Attribute6Value>
+					<Attribute8Type>145</Attribute8Type>
+					<Attribute8Value>CST LAST EVALUATION DATE</Attribute8Value>
+					<CategoryType>4</CategoryType>
+					<CategoryValue>Common Individual and Corporate Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>9203000000013218982</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>8</PartyValueType>
+					<PartyValueValue>Common Individual and Corporate Data</PartyValueValue>
+					<StartDate>2009-10-24 16:09:39.0</StartDate>
+					<PartyValueLastUpdateDate>2022-12-13 16:08:14.529</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>banktest\c23060</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>312267094049405350</PartyValueLastUpdateTxId>
+					<Attribute0Type>47</Attribute0Type>
+					<Attribute0Value>PUBLIC SECTOR ENTITIES FLAG</Attribute0Value>
+					<Attribute1Type>66</Attribute1Type>
+					<Attribute1Value>SEND COMMERCIAL DATA INDICATOR</Attribute1Value>
+					<Attribute1String>N</Attribute1String>
+					<Attribute2Type>67</Attribute2Type>
+					<Attribute2Value>EXECUTE TRANSACTIONS THROUGH FAX INDICATOR</Attribute2Value>
+					<Attribute2String>N</Attribute2String>
+					<Attribute3Type>68</Attribute3Type>
+					<Attribute3Value>COMMUNICATION TYPE PREFERENCE</Attribute3Value>
+					<Attribute5Type>65</Attribute5Type>
+					<Attribute5Value>MARKETING CUSTOMER CATEGORY</Attribute5Value>
+					<Attribute5String>01</Attribute5String>
+					<Attribute6Type>74</Attribute6Type>
+					<Attribute6Value>MISSING REQUIRED DATA INDICATOR</Attribute6Value>
+					<Attribute7Type>129</Attribute7Type>
+					<Attribute7Value>US INDICIA</Attribute7Value>
+					<Attribute7String>00000000000000000000</Attribute7String>
+					<Attribute8Type>91</Attribute8Type>
+					<Attribute8Value>KEEP POST MAIL IN BRANCH</Attribute8Value>
+					<Attribute8String>N</Attribute8String>
+					<Attribute9Type>93</Attribute9Type>
+					<Attribute9Value>REASON FOR NO TAX ID</Attribute9Value>
+					<CategoryType>4</CategoryType>
+					<CategoryValue>Common Individual and Corporate Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>9203000000013504226</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>10</PartyValueType>
+					<PartyValueValue>Common Individual and Corporate Action Data</PartyValueValue>
+					<StartDate>2009-10-24 16:09:47.0</StartDate>
+					<PartyValueLastUpdateDate>2022-12-13 16:08:14.535</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>banktest\c23060</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>312267094049405350</PartyValueLastUpdateTxId>
+					<Attribute0Type>76</Attribute0Type>
+					<Attribute0Value>CREATION TELLER</Attribute0Value>
+					<Attribute0String>b3e6c165-c7e7-48d3-90fe-e7a19c0c3d1c</Attribute0String>
+					<Attribute1Type>77</Attribute1Type>
+					<Attribute1Value>CREATION BRANCH</Attribute1Value>
+					<Attribute1String>ad8af1e8-3edf-482b-91e7-e27f1129877c</Attribute1String>
+					<Attribute2Type>78</Attribute2Type>
+					<Attribute2Value>LAST UPDATE BRANCH</Attribute2Value>
+					<Attribute2String>18c0eccc-d9c3-4534-9f92-fd2676c487cb</Attribute2String>
+					<Attribute3Type>79</Attribute3Type>
+					<Attribute3Value>LAST VERIFICATION TELLER</Attribute3Value>
+					<Attribute4Type>80</Attribute4Type>
+					<Attribute4Value>LAST VERIFICATION BRANCH</Attribute4Value>
+					<Attribute5Type>92</Attribute5Type>
+					<Attribute5Value>MANDITORY TIME UPDATE</Attribute5Value>
+					<Attribute5String>2022-12-13 16:08:12.083</Attribute5String>
+					<Attribute6Type>105</Attribute6Type>
+					<Attribute6Value>SEARCH EXCLUSION FLAG</Attribute6Value>
+					<Attribute7Type>106</Attribute7Type>
+					<Attribute7Value>CREATION DATE</Attribute7Value>
+					<Attribute7String>2004-08-30 00:00:00.000</Attribute7String>
+					<CategoryType>4</CategoryType>
+					<CategoryValue>Common Individual and Corporate Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>9203000000002107330</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>12</PartyValueType>
+					<PartyValueValue>Individual Party Data 2</PartyValueValue>
+					<StartDate>2009-10-24 16:03:40.0</StartDate>
+					<PartyValueLastUpdateDate>2020-03-11 08:23:48.419</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>Bank\C21343</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>677858390782566113</PartyValueLastUpdateTxId>
+					<Attribute0Type>94</Attribute0Type>
+					<Attribute0Value>NOT REQUIRED TO HAVE IDENTIFIER</Attribute0Value>
+					<Attribute0String>N</Attribute0String>
+					<Attribute1Type>113</Attribute1Type>
+					<Attribute1Value>AMKA NO REASON</Attribute1Value>
+					<Attribute2Type>125</Attribute2Type>
+					<Attribute2Value>LEGAL PRACTICE ABILITY</Attribute2Value>
+					<Attribute2String>Y</Attribute2String>
+					<Attribute3Type>126</Attribute3Type>
+					<Attribute3Value>LEGAL PRACTICE ABILITY COMMENTS</Attribute3Value>
+					<CategoryType>2</CategoryType>
+					<CategoryValue>Individual Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>9203000000013224922</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>13</PartyValueType>
+					<PartyValueValue>Common Individual and Corporate Action Data 2</PartyValueValue>
+					<StartDate>2009-10-24 16:09:39.0</StartDate>
+					<PartyValueLastUpdateDate>2020-03-11 08:23:48.428</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>Bank\C21343</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>677858390782566113</PartyValueLastUpdateTxId>
+					<Attribute0Type>95</Attribute0Type>
+					<Attribute0Value>CREATION COUNTRY</Attribute0Value>
+					<Attribute0String>300086</Attribute0String>
+					<Attribute1Type>96</Attribute1Type>
+					<Attribute1Value>CREATION COMPANY-SYSTEM</Attribute1Value>
+					<Attribute1String>01</Attribute1String>
+					<Attribute2Type>97</Attribute2Type>
+					<Attribute2Value>LAST UPDATE COUNTRY</Attribute2Value>
+					<Attribute3Type>98</Attribute3Type>
+					<Attribute3Value>LAST UPDATE COMPANY-SYSTEM</Attribute3Value>
+					<Attribute4Type>99</Attribute4Type>
+					<Attribute4Value>LAST VERIFICATION COUNTRY</Attribute4Value>
+					<Attribute5Type>100</Attribute5Type>
+					<Attribute5Value>LAST VERIFICATION COMPANY-SYSTEM</Attribute5Value>
+					<Attribute6Type>138</Attribute6Type>
+					<Attribute6Value>FULLY VERIFIED FLAG</Attribute6Value>
+					<Attribute6String>1</Attribute6String>
+					<Attribute7Type>134</Attribute7Type>
+					<Attribute7Value>RELATED PARTIES STATUS</Attribute7Value>
+					<Attribute8Type>135</Attribute8Type>
+					<Attribute8Value>RELATED PARTIES START DATE</Attribute8Value>
+					<Attribute9Type>136</Attribute9Type>
+					<Attribute9Value>RELATED PARTIES EXPIRATION DATE</Attribute9Value>
+					<CategoryType>4</CategoryType>
+					<CategoryValue>Common Individual and Corporate Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>9951358922585691</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>14</PartyValueType>
+					<PartyValueValue>Common Individual and Corporate Action Data 3</PartyValueValue>
+					<StartDate>2013-01-23 08:29:45.691</StartDate>
+					<PartyValueLastUpdateDate>2022-09-28 14:46:26.717</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>Banktest\c23015</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>544366436558614976</PartyValueLastUpdateTxId>
+					<Attribute1Type>121</Attribute1Type>
+					<Attribute1Value>SIGNATURE ID</Attribute1Value>
+					<Attribute1String>{5C18526C-D894-497B-8755-35814AD5BD1F}</Attribute1String>
+					<Attribute2Type>122</Attribute2Type>
+					<Attribute2Value>SIGNATURE CHARACTERIZATION DT</Attribute2Value>
+					<Attribute2String>2020-03-11 00:00:00.000</Attribute2String>
+					<Attribute3Type>123</Attribute3Type>
+					<Attribute3Value>SIGNATURE CHARACTERIZATION USER</Attribute3Value>
+					<Attribute3String>c21343</Attribute3String>
+					<Attribute4Type>124</Attribute4Type>
+					<Attribute4Value>SIGNATURE CHARACTERIZATION BRANCH</Attribute4Value>
+					<Attribute4String>0346</Attribute4String>
+					<Attribute5Type>148</Attribute5Type>
+					<Attribute5Value>LAST UPDATE CHANNEL</Attribute5Value>
+					<Attribute5String>900001</Attribute5String>
+					<CategoryType>4</CategoryType>
+					<CategoryValue>Common Individual and Corporate Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<TCRMPartyValueBObj>
+					<ComponentID>1036</ComponentID>
+					<PartyValueId>1288663573027535</PartyValueId>
+					<PartyId>9203000000002105242</PartyId>
+					<PartyValueType>15</PartyValueType>
+					<PartyValueValue>Bankruptcy Data</PartyValueValue>
+					<StartDate>2022-09-19 10:37:07.534</StartDate>
+					<PartyValueLastUpdateDate>2022-09-19 10:37:07.534</PartyValueLastUpdateDate>
+					<PartyValueLastUpdateUser>banktest\c23060</PartyValueLastUpdateUser>
+					<PartyValueLastUpdateTxId>817466357302673552</PartyValueLastUpdateTxId>
+					<Attribute0Type>130</Attribute0Type>
+					<Attribute0Value>BANKRUPTCY INDICATOR</Attribute0Value>
+					<Attribute0String>1</Attribute0String>
+					<Attribute1Type>131</Attribute1Type>
+					<Attribute1Value>BANKRUPTCY STATE</Attribute1Value>
+					<Attribute1String>300001</Attribute1String>
+					<Attribute2Type>132</Attribute2Type>
+					<Attribute2Value>BANKRUPTCY STATE CHANGE DATE</Attribute2Value>
+					<Attribute2String>2022-11-11 00:00:00.000</Attribute2String>
+					<Attribute3Type>133</Attribute3Type>
+					<Attribute3Value>BANKRUPTCY DECISION NUMBER</Attribute3Value>
+					<Attribute4Type>141</Attribute4Type>
+					<Attribute4Value>OCW STATUS</Attribute4Value>
+					<Attribute5Type>142</Attribute5Type>
+					<Attribute5Value>OCW STAGE</Attribute5Value>
+					<Attribute6Type>143</Attribute6Type>
+					<Attribute6Value>OCW DATE</Attribute6Value>
+					<CategoryType>4</CategoryType>
+					<CategoryValue>Common Individual and Corporate Data</CategoryValue>
+				</TCRMPartyValueBObj>
+				<ComponentID>1004101</ComponentID>
+				<DWLStatus>
+					<Status>0</Status>
+				</DWLStatus>
+			</TCRMPersonBObj>
+		</ResponseObject>
+	</TxResponse>
+</TCRMService>
